@@ -76,11 +76,11 @@ function century(year) {
 
 * **Courses: Pre-School 2022Q2**  
   CV&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;[github-pages](https://diskantis.github.io/RS2022Q2_CV/)  
-  TRAVEL &emsp;&emsp;&emsp; [github-pages](https://diskantis.github.io/RS2022Q2_TRAVEL/)  
+  TRAVEL &emsp;&emsp;&emsp;&emsp;[github-pages](https://diskantis.github.io/RS2022Q2_TRAVEL/)  
 
 
 * **Courses: Pre-School 2022Q4**  
-  PLANTS &emsp;&emsp;&emsp; [github-pages](https://diskantis.github.io/RS2022Q4_PLANTS/plants/)  
+  PLANTS &emsp;&emsp;&emsp;&emsp;[github-pages](https://diskantis.github.io/RS2022Q4_PLANTS/plants/)  
   MOMENTUM &emsp; [github-pages](https://diskantis.github.io/RS2022Q4_MOMENTUM/momentum/)
 
 
